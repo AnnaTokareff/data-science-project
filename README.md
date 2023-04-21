@@ -3,6 +3,7 @@
 ## Part 1
 
 Code for part 1 is in [part_1.ipynb](part_1.ipynb).
+
 To install the environment needed:
 
 ```bash
