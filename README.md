@@ -8,5 +8,5 @@ To install the environment needed:
 
 ```bash
 conda create -n data python=3.9
-pip install -r requirement.txt
+python -m pip install -r requirement.txt
 ```
